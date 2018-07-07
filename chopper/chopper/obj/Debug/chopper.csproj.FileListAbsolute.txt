@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\bin\Debug\chopper.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\bin\Debug\chopper.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\bin\Debug\chopper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\chopper\chopper\obj\Debug\chopper.pdb
